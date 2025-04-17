@@ -1,0 +1,17 @@
+Instruction
+- Collect a Sample Dataset
+- Gather a dataset suitable for the project or analysis.
+
+Perform the Following in Python:
+- Utilize the following functions and tasks in Python:
+
+Importing libraries
+- Using functions like print(), head(), drop(), read_*() (e.g., read_csv), label encoding, one-hot encoding, info(), mapping(), and describe().
+- Explain the Purpose
+- Provide a detailed explanation of when and why each function is performed.
+
+Add Additional Functions
+- Introduce other relevant functions not listed in Step 2. Explain their purpose and scenarios where they should be used.
+
+Convert Python Code to an HTML File
+- Transform the Python script into an HTML file. Ensure that the file includes detailed explanations for each line of code.
