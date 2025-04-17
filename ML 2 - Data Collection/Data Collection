@@ -1,0 +1,10 @@
+Instructions :
+
+1. Choose a problem domain that involves data collection and analysis  e.g. Retail: customer purchasing behavior
+2. Write a brief explanation (3–5 sentences) of why you selected this domain and its significance.
+3. Identify the primary objects you want to analyze within your chosen domain. e.g. in retail to purchase or not.
+4. List the key attributes or characteristics that define your object (e.g., shape, color, texture, size).
+5. Identify sources of data (e.g., public datasets, real-world data collection, web scraping, sensors, surveys).
+6. Describe how the data is collected (e.g., manually labeled images, automated sensors, transactional logs).
+7. Mention any preprocessing steps required (e.g., cleaning, normalization, augmentation).
+8. Identify the Data types of the data.
