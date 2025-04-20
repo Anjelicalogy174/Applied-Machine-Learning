@@ -1,0 +1,14 @@
+Instruction :
+
+1. Collect the datasets
+2. Detect outliers using Statistical methods (z-score, interquartile etc.) and visualize it
+3. Detect outlier using machine learning methods (isolation methods, density-based outlier detection, PCA Based, XGboost) and visualize it.
+4. Compare outlier counts from each method (statistical and machine learning methods)
+5.  Handle outliers and Compare Performance (removing, winsorization and log transformation)
+6. Evaluate the impact of handling outliers by training a machine learning model (e.g. (SVM, Regression, Random Forest etc.) before and after outlier handling
+7. Interpret the result by summarizing all findings and specifically answer the following questions>
+7.1 How do different outlier detection techniques impact the identification of anomalies in the datasets?
+7.2 How does the presence of outliers affect the performance of different machine learning models?
+7.3 Why does a certain models show the most improved before and after removing outliers compared to other models?
+7.4 What are the potential drawbacks of removing outliers from a datasets?
+7.5  If you were working with a real-word datasets, what factors would you consider before deciding to remove outliers? 
